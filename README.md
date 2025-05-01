@@ -91,11 +91,3 @@ backtest.run(strategy, start_date='2023-01-01', end_date='2023-12-31')
 ```bash
 pytest
 ```
-
-## 📝 License
-
-MIT License - See [LICENSE](LICENSE) for details.
-
-## ⚠️ Disclaimer
-
-This software is for educational purposes only. Use it at your own risk. The authors and contributors are not responsible for any financial losses incurred through the use of this software.
